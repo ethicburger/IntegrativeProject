@@ -13,3 +13,8 @@ P:\IntegrativeProject\IntegrativeProject\IntegrativeProject\obj\Debug\net8.0\ref
 P:\IntegrativeProject\IntegrativeProject\IntegrativeProject\obj\Debug\net8.0\IntegrativeProject.pdb
 P:\IntegrativeProject\IntegrativeProject\IntegrativeProject\obj\Debug\net8.0\IntegrativeProject.genruntimeconfig.cache
 P:\IntegrativeProject\IntegrativeProject\IntegrativeProject\obj\Debug\net8.0\ref\IntegrativeProject.dll
+P:\IntegrativeProject\IntegrativeProject\IntegrativeProject\obj\Debug\net8.0\IntegrativeProject.csproj.AssemblyReference.cache
+P:\IntegrativeProject\IntegrativeProject\IntegrativeProject\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+P:\IntegrativeProject\IntegrativeProject\IntegrativeProject\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+P:\IntegrativeProject\IntegrativeProject\IntegrativeProject\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+P:\IntegrativeProject\IntegrativeProject\IntegrativeProject\obj\Debug\net8.0\Integrat.1DF2CEFF.Up2Date

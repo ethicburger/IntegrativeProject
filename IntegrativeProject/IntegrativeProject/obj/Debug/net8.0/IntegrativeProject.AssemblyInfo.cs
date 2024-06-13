@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IntegrativeProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ccf409df8430507da0955805f0c7cb49ba3ef3a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+91351ac10ae6e2ae40c9b85d09da5763ebfcb0f1")]
 [assembly: System.Reflection.AssemblyProductAttribute("IntegrativeProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IntegrativeProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
