@@ -1,0 +1,15 @@
+P:\IntegrativeProject\IntegrativeProject\IntegrativeProject\bin\Debug\net8.0\IntegrativeProject.exe
+P:\IntegrativeProject\IntegrativeProject\IntegrativeProject\bin\Debug\net8.0\IntegrativeProject.deps.json
+P:\IntegrativeProject\IntegrativeProject\IntegrativeProject\bin\Debug\net8.0\IntegrativeProject.runtimeconfig.json
+P:\IntegrativeProject\IntegrativeProject\IntegrativeProject\bin\Debug\net8.0\IntegrativeProject.dll
+P:\IntegrativeProject\IntegrativeProject\IntegrativeProject\bin\Debug\net8.0\IntegrativeProject.pdb
+P:\IntegrativeProject\IntegrativeProject\IntegrativeProject\obj\Debug\net8.0\IntegrativeProject.GeneratedMSBuildEditorConfig.editorconfig
+P:\IntegrativeProject\IntegrativeProject\IntegrativeProject\obj\Debug\net8.0\IntegrativeProject.AssemblyInfoInputs.cache
+P:\IntegrativeProject\IntegrativeProject\IntegrativeProject\obj\Debug\net8.0\IntegrativeProject.AssemblyInfo.cs
+P:\IntegrativeProject\IntegrativeProject\IntegrativeProject\obj\Debug\net8.0\IntegrativeProject.csproj.CoreCompileInputs.cache
+P:\IntegrativeProject\IntegrativeProject\IntegrativeProject\obj\Debug\net8.0\IntegrativeProject.sourcelink.json
+P:\IntegrativeProject\IntegrativeProject\IntegrativeProject\obj\Debug\net8.0\IntegrativeProject.dll
+P:\IntegrativeProject\IntegrativeProject\IntegrativeProject\obj\Debug\net8.0\refint\IntegrativeProject.dll
+P:\IntegrativeProject\IntegrativeProject\IntegrativeProject\obj\Debug\net8.0\IntegrativeProject.pdb
+P:\IntegrativeProject\IntegrativeProject\IntegrativeProject\obj\Debug\net8.0\IntegrativeProject.genruntimeconfig.cache
+P:\IntegrativeProject\IntegrativeProject\IntegrativeProject\obj\Debug\net8.0\ref\IntegrativeProject.dll
